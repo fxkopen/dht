@@ -1,0 +1,12 @@
+{
+  "language": "zh-hans",
+  "plugins": [
+    "expandable-chapters",
+    "-sharing",
+    "theme-fs",
+    "-theme-default"
+  ],
+  "pluginsConfig": {
+    "expandable-chapters": {}
+  }
+}
